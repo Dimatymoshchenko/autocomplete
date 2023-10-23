@@ -1,0 +1,23 @@
+.dropdown {
+  max-height: 300px;
+  overflow-y: scroll;
+  background-color: #fff;
+  border: 1px solid #000;
+  color: #000;
+  position: absolute;
+  top: 100%;
+  width: 97%;
+  left: 1%;
+}
+
+.container {
+  width: 100%;
+  position: relative;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  height: 30px;
+}
